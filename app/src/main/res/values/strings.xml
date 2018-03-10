@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Поехавший /б/удильник</string>
+
+    <string name="set_time_text">Установить время</string>
+    <string name="set_text">Поставить /б/удильник</string>
+    <string name="reset_text">Сбросить /б/удильник</string>
+    <string name="narabotu">НА РАБОТУ!</string>
+
+    <string name="is_alarm_set_key">is_alarm_set</string>
+    <string name="alarm_string_key">alarm_string</string>
+</resources>
